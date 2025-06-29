@@ -1,6 +1,6 @@
 import React from 'react'
 import ProductGrid from "../assets/components/ProductGrid"
-import Footer from '../assets/components/footer'
+import Footer from '../assets/components/Footer'
 import { useDispatch } from 'react-redux';
 import { setSelectedCategory } from '../features/ProductSlice';
 

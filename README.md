@@ -104,6 +104,7 @@ E-Commerce/
 
 1️⃣ Clone the repository
 git clone https://github.com/ponnada-sowjanya/E-Commerce.git
+
 cd E-Commerce
 
 2️⃣ Install dependencies

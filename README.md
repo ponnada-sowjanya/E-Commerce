@@ -41,51 +41,67 @@ E-Commerce/
 
 ├── src/
 
-│   ├── assets/
+│├── assets/
 
-│   │   ├── components/
-│   │   │   ├── Navbar.jsx
-│   │   │   ├── Footer.jsx
-│   │   │   ├── ProductCard.jsx
-│   │   │   └── ProductGrid.jsx
-│   │
-│   ├── features/
-│   │   ├── ProductSlice.js
-│   │   └── cart/cartSlice.js
-│   │
-│   ├── pages/
-│   │   ├── Home.jsx
-│   │   ├── CartPage.jsx
-│   │   └── ProductDetails.jsx
-│   │
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── productContent.js
+││├── components/
 
-🛒 Functional Overview
+│││├── Navbar.jsx
+
+│││├── Footer.jsx
+
+│││├── ProductCard.jsx
+
+│││└── ProductGrid.jsx
+
+││
+
+│├── features/
+
+││├── ProductSlice.js
+
+││ └── cart/cartSlice.js
+
+││
+│├── pages/
+
+││├── Home.jsx
+
+││├── CartPage.jsx
+
+││└── ProductDetails.jsx
+
+││├── App.jsx
+
+│├── main.jsx
+
+│└── productContent.js
+
+**🛒 Functional Overview**
+
 🔹 Product Listing
 
-Products displayed dynamically using reusable components.
+- Products displayed dynamically using reusable components.
 
-Data managed via Redux store.
+- Data managed via Redux store.
 
 🔹 Cart Management
 
-Add products to cart.
+- Add products to cart.
 
-Update quantity.
+- Update quantity.
 
-Remove items.
+- Remove items.
 
-Centralized cart state using Redux Toolkit.
+- Centralized cart state using Redux Toolkit.
 
 🔹 Product Details
 
-Dynamic routing using React Router.
+- Dynamic routing using React Router.
 
-Displays individual product information.
+- Displays individual product information.
 
-🚀 How to Run Locally
+**🚀 How to Run Locally**
+
 1️⃣ Clone the repository
 git clone https://github.com/ponnada-sowjanya/E-Commerce.git
 cd E-Commerce
@@ -101,32 +117,32 @@ Open:
 
 http://localhost:5173
 
-🎯 Learning Outcomes
+**🎯 Learning Outcomes**
 
-Through this project, I gained experience in:
+- Through this project, I gained experience in:
 
-Component-based architecture
+- Component-based architecture
 
-Redux Toolkit state management
+- Redux Toolkit state management
 
-Managing global store
+- Managing global store
 
-React Router navigation
+- React Router navigation
 
-Building scalable UI structure
+- Building scalable UI structure
 
-Organizing frontend folder structure
+- Organizing frontend folder structure
 
-Debugging React applications
+- Debugging React applications
 
-🔮 Future Improvements
+**🔮 Future Improvements**
 
-Backend integration (Node.js + MongoDB)
+- Backend integration (Node.js + MongoDB)
 
-Authentication (Login/Register)
+- Authentication (Login/Register)
 
-Payment gateway integration
+- Payment gateway integration
 
-Order management system
+- Order management system
 
-Admin dashboard
+- Admin dashboard

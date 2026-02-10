@@ -1,46 +1,48 @@
-🛍️ E-Commerce Web Application
+**🛍️ E-Commerce Web Application **
+- A modern e-commerce web application built using React + Vite + Redux Toolkit, featuring product listings, cart functionality, and dynamic product details.
 
-A modern e-commerce web application built using React + Vite + Redux Toolkit, featuring product listings, cart functionality, and dynamic product details.
+- This project was developed to strengthen frontend development skills, state management, and UI structuring in React.
 
-This project was developed to strengthen frontend development skills, state management, and UI structuring in React.
+**🚀 Features **
+- 🏠 Home Page with Product Grid
 
-🚀 Features
+- 📦 Product Details Page
 
-🏠 Home Page with Product Grid
+- 🛒 Add to Cart functionality
 
-📦 Product Details Page
+- 🗑 Remove from Cart
 
-🛒 Add to Cart functionality
+- 🧮 Cart Quantity Management
 
-🗑 Remove from Cart
+- 📊 Redux-based State Management
 
-🧮 Cart Quantity Management
+- 🧭 React Router Navigation
 
-📊 Redux-based State Management
+- 📱 Responsive Layout
 
-🧭 React Router Navigation
+**🛠 Tech Stack**
 
-📱 Responsive Layout
+- React.js
 
-🛠 Tech Stack
+- Vite
 
-React.js
+- Redux Toolkit
+  
+- React Router
 
-Vite
+- JavaScript (ES6+)
 
-Redux Toolkit
-
-React Router
-
-JavaScript (ES6+)
-
-CSS
+- CSS
 
 📂 Project Structure
 E-Commerce/
+
 │
+
 ├── src/
+
 │   ├── assets/
+
 │   │   ├── components/
 │   │   │   ├── Navbar.jsx
 │   │   │   ├── Footer.jsx
